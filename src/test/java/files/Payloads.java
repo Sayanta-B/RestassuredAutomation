@@ -22,5 +22,15 @@ public class Payloads {
 				"	\"language\": \"French-IN\"\r\n" + 
 				"}";
 	}
+	public static String addBook() {
+		String payload= "{\r\n" + 
+				"\"name\":\"Learn Appium Automation with Java\",\r\n" + 
+				"\"isbn\":\"bcd\",\r\n" + 
+				"\"aisle\":\"227yy87\",\r\n" + 
+				"\"author\":\"John foe\"\r\n" + 
+				"}\r\n" + 
+				"";
+		return payload;
+	}
 
 }

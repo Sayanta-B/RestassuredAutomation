@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4084" started-at="2022-07-10T05:01:39Z" finished-at="2022-07-10T05:01:43Z">
+  <suite name="Default suite" duration-ms="2398" started-at="2022-08-24T05:27:33Z" finished-at="2022-08-24T05:27:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4084" started-at="2022-07-10T05:01:39Z" finished-at="2022-07-10T05:01:43Z">
-      <class name="com.test.RestassuredAutomation.Tc_02_Post">
-        <test-method status="PASS" signature="postRequest()[pri:0, instance:com.test.RestassuredAutomation.Tc_02_Post@1753acfe]" name="postRequest" duration-ms="4053" started-at="2022-07-10T10:31:39Z" finished-at="2022-07-10T10:31:43Z">
+    <test name="Default test" duration-ms="2398" started-at="2022-08-24T05:27:33Z" finished-at="2022-08-24T05:27:35Z">
+      <class name="files.DynamicJson">
+        <test-method status="PASS" signature="addBook()[pri:0, instance:files.DynamicJson@7dc7cbad]" name="addBook" duration-ms="2385" started-at="2022-08-24T10:57:33Z" finished-at="2022-08-24T10:57:35Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- postRequest -->
-      </class> <!-- com.test.RestassuredAutomation.Tc_02_Post -->
+        </test-method> <!-- addBook -->
+      </class> <!-- files.DynamicJson -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
